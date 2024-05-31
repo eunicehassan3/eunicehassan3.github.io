@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-by: Michael Adeleke
+author: Michael Adeleke
 ---
 
 this are some words yaya
