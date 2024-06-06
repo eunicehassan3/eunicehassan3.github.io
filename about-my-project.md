@@ -2,7 +2,7 @@
 
 ## Mind Mastery
 
-Problem: There is a lack of reasearch focusing on exploring ways to build gaming software that integrates 3D gaming and brain-wave activity. 
+Problem: There is a lack of research focusing on exploring ways to build gaming software that integrates 3D gaming and brain-wave activity. 
 
 Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
