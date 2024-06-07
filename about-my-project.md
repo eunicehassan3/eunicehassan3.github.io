@@ -8,7 +8,7 @@ Approach: During this project, I will assist a team in designing a system that a
 
   - Use a Brain-Computer Interface (BCI) to access brain waves
   - Identifying BCI commands from EEG and gyroscope data EEG and gyroscope data
-  - Develop a 3D game in unity that uses brain activity to process controls. 
+  - Develop a 3D game in unity that uses brain activity to control game. 
 
 Expected Outcome: The project is expected to result in a fully developed game that can be controlled or heavily influenced by brain wave controls.
 
